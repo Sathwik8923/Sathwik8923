@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 B.Tech CSE @ SVNIT Surat  <br>🤖 Building AI-powered projects (GuardianEye 👁️)  <br>💡 Exploring Machine Learning, OpenCV & Backend Development  <br>AI + Web projects  <br>📚 Currently levelling up DSA & problem solving
+🚀 B.Tech CSE @ SVNIT Surat  <br>🤖 Building AI-powered projects (GuardianEye 👁️)  <br>💡 Exploring Machine Learning, OpenCV & Backend Development  <br> AI + Web projects  <br>📚 Currently levelling up DSA & problem solving
 
 
 ## 🌐 Socials:
