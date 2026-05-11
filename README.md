@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 B.Tech CSE @ SVNIT Surat  <br>🤖 Building AI-powered projects (GuardianEye 👁️)  <br>💡 Exploring Machine Learning, OpenCV & Backend Development  <br>🤝 Open to collaborations on AI + Web projects  <br>📚 Currently levelling up DSA & problem solving  <br>⚡ Fun fact: Debugging feels better than winning sometimes
+🚀 B.Tech CSE @ SVNIT Surat  <br>🤖 Building AI-powered projects (GuardianEye 👁️)  <br>💡 Exploring Machine Learning, OpenCV & Backend Development  <br>AI + Web projects  <br>📚 Currently levelling up DSA & problem solving
 
 
 ## 🌐 Socials:
